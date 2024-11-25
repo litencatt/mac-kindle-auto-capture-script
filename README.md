@@ -1,1 +1,1 @@
-# mac-kindle-auto-capture-script
+# Kindle Auto Capture script for Mac
